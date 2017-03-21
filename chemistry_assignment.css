@@ -1,0 +1,39 @@
+body
+{
+	background: lightblue;
+	border: dotted orange;
+	border-width: 5px;
+	margin: 100px 50px 50px 100px;
+	padding: 50px 30px 50px 80px;
+	color:red;
+	font-size: 25px;
+	
+	}
+h1, h2, h3
+{
+	
+	font-style: italic;
+	font-size: 35px;
+	color: green;
+	
+
+}
+p
+{
+	color: black;
+	font-size:25px;
+	font-family: helvetica;
+	
+}
+h2
+{
+	border-bottom: 1px solid black;
+}
+h3
+{
+	border: 1px solid black;
+}
+.me
+{
+	color: red;
+}
